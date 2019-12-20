@@ -1,0 +1,11 @@
+[package]
+name = "tapir"
+version = "1.0.0"
+authors = ["lcnr/Bastian Kauschke <bastian_kauschke@hotmail.de>"]
+description = "Adding tapping functionality to rust"
+keywords = ["tap", "mut"]
+categories = ["no-std", "rust-patterns"]
+license = "MIT"
+repository = "https://github.com/lcnr/tapir"
+readme = "README.md"
+edition = "2018"
