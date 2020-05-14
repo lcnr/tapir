@@ -1,6 +1,6 @@
 [package]
 name = "tapir"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["lcnr/Bastian Kauschke <bastian_kauschke@hotmail.de>"]
 description = "Adding tapping functionality to rust"
 keywords = ["tap", "mut"]
