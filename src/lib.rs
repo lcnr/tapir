@@ -78,6 +78,7 @@ pub trait Tap {
 }
 
 impl<T> Tap for T {
+    #[inline]
     fn tap<F: FnOnce(&mut Self)>(mut self, f: F) -> Self {
         f(&mut self);
         self
